@@ -1,0 +1,3 @@
+[submodule "/home/ness/.config/nvim"]
+	path = /home/ness/.config/nvim
+	url = https://github.com/ssenr/nvim
