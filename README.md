@@ -6,4 +6,5 @@ incomplete and terrible (for now) :hushed:
 - [x] Add CPU, Ram and GPU Usage in Polybar (Filesystem instead of GPU)
 - [ ] Configure better BSPWM keys
 - [ ] Add rofi keybinds
+- [ ] Make a cheatsheet for binds
 
