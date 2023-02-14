@@ -9,7 +9,8 @@ super + Return
 # program launcher
 # Laynch Rofi
 super + @space
-	rofi -modi drun,run -show drun
+    rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/docky/scripts/rofi/launcher.rasi
+	#rofi -modi drun,run -show drun
 
 # make sxhkd reload its configuration files:
 super + Escape
